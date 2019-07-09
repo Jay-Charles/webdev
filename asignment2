@@ -1,0 +1,34 @@
+<html>
+<ul style="background-color:red;">
+<li>garden</li>
+<li>llamas in hats</li>
+<ol type="I">
+<li>kit</li>
+<li>cane</li>
+<li>poppy seeds</li>
+</ol>
+<li>rice</li>
+<li>flour</li>
+<li>sweet potato</li>
+</ul>
+<table>
+<tr>
+<th> cost</th>
+<th>name</th>
+<th>pocket money</th>
+</tr>
+<tr>
+<td>45</td>
+<td>shoe</td>
+<td>78</td>
+</tr>
+<td>15</td>
+<td>robe</td>
+<td> 33</td>
+</tr>
+<tr>
+<td>24</td>
+<td>book</td>
+<td>18</td>
+</table>
+</html>
